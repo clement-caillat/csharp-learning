@@ -1,0 +1,15 @@
+C:\Users\Dev\Documents\crypto\C#\NoteTaking\bin\Debug\net6.0\NoteTaking.exe
+C:\Users\Dev\Documents\crypto\C#\NoteTaking\bin\Debug\net6.0\NoteTaking.deps.json
+C:\Users\Dev\Documents\crypto\C#\NoteTaking\bin\Debug\net6.0\NoteTaking.runtimeconfig.json
+C:\Users\Dev\Documents\crypto\C#\NoteTaking\bin\Debug\net6.0\NoteTaking.dll
+C:\Users\Dev\Documents\crypto\C#\NoteTaking\bin\Debug\net6.0\ref\NoteTaking.dll
+C:\Users\Dev\Documents\crypto\C#\NoteTaking\bin\Debug\net6.0\NoteTaking.pdb
+C:\Users\Dev\Documents\crypto\C#\NoteTaking\obj\Debug\net6.0\NoteTaking.csproj.AssemblyReference.cache
+C:\Users\Dev\Documents\crypto\C#\NoteTaking\obj\Debug\net6.0\NoteTaking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dev\Documents\crypto\C#\NoteTaking\obj\Debug\net6.0\NoteTaking.AssemblyInfoInputs.cache
+C:\Users\Dev\Documents\crypto\C#\NoteTaking\obj\Debug\net6.0\NoteTaking.AssemblyInfo.cs
+C:\Users\Dev\Documents\crypto\C#\NoteTaking\obj\Debug\net6.0\NoteTaking.csproj.CoreCompileInputs.cache
+C:\Users\Dev\Documents\crypto\C#\NoteTaking\obj\Debug\net6.0\NoteTaking.dll
+C:\Users\Dev\Documents\crypto\C#\NoteTaking\obj\Debug\net6.0\ref\NoteTaking.dll
+C:\Users\Dev\Documents\crypto\C#\NoteTaking\obj\Debug\net6.0\NoteTaking.pdb
+C:\Users\Dev\Documents\crypto\C#\NoteTaking\obj\Debug\net6.0\NoteTaking.genruntimeconfig.cache

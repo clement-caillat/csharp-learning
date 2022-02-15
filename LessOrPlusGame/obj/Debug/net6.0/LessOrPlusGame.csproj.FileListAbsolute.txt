@@ -1,0 +1,15 @@
+C:\Users\Dev\Documents\crypto\C#\LessOrPlusGame\bin\Debug\net6.0\LessOrPlusGame.exe
+C:\Users\Dev\Documents\crypto\C#\LessOrPlusGame\bin\Debug\net6.0\LessOrPlusGame.deps.json
+C:\Users\Dev\Documents\crypto\C#\LessOrPlusGame\bin\Debug\net6.0\LessOrPlusGame.runtimeconfig.json
+C:\Users\Dev\Documents\crypto\C#\LessOrPlusGame\bin\Debug\net6.0\LessOrPlusGame.dll
+C:\Users\Dev\Documents\crypto\C#\LessOrPlusGame\bin\Debug\net6.0\ref\LessOrPlusGame.dll
+C:\Users\Dev\Documents\crypto\C#\LessOrPlusGame\bin\Debug\net6.0\LessOrPlusGame.pdb
+C:\Users\Dev\Documents\crypto\C#\LessOrPlusGame\obj\Debug\net6.0\LessOrPlusGame.csproj.AssemblyReference.cache
+C:\Users\Dev\Documents\crypto\C#\LessOrPlusGame\obj\Debug\net6.0\LessOrPlusGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dev\Documents\crypto\C#\LessOrPlusGame\obj\Debug\net6.0\LessOrPlusGame.AssemblyInfoInputs.cache
+C:\Users\Dev\Documents\crypto\C#\LessOrPlusGame\obj\Debug\net6.0\LessOrPlusGame.AssemblyInfo.cs
+C:\Users\Dev\Documents\crypto\C#\LessOrPlusGame\obj\Debug\net6.0\LessOrPlusGame.csproj.CoreCompileInputs.cache
+C:\Users\Dev\Documents\crypto\C#\LessOrPlusGame\obj\Debug\net6.0\LessOrPlusGame.dll
+C:\Users\Dev\Documents\crypto\C#\LessOrPlusGame\obj\Debug\net6.0\ref\LessOrPlusGame.dll
+C:\Users\Dev\Documents\crypto\C#\LessOrPlusGame\obj\Debug\net6.0\LessOrPlusGame.pdb
+C:\Users\Dev\Documents\crypto\C#\LessOrPlusGame\obj\Debug\net6.0\LessOrPlusGame.genruntimeconfig.cache
