@@ -8,23 +8,26 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Dev\\.nuget\\packages\\": {}
+    "C:\\Users\\cleme\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dev\\Documents\\crypto\\C#\\LessOrPlusGame\\LessOrPlusGame.csproj",
+      "projectUniqueName": "C:\\Users\\cleme\\Documents\\C#\\csharp-learning\\LessOrPlusGame\\LessOrPlusGame.csproj",
       "projectName": "LessOrPlusGame",
-      "projectPath": "C:\\Users\\Dev\\Documents\\crypto\\C#\\LessOrPlusGame\\LessOrPlusGame.csproj",
-      "packagesPath": "C:\\Users\\Dev\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dev\\Documents\\crypto\\C#\\LessOrPlusGame\\obj\\",
+      "projectPath": "C:\\Users\\cleme\\Documents\\C#\\csharp-learning\\LessOrPlusGame\\LessOrPlusGame.csproj",
+      "packagesPath": "C:\\Users\\cleme\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\cleme\\Documents\\C#\\csharp-learning\\LessOrPlusGame\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Dev\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\cleme\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
@@ -55,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
