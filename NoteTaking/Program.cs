@@ -5,7 +5,7 @@
         public static void Main()
         {
             Note.init();
-            Menu.draw(50, 10);
+            Menu.draw();
         }
 
         public static void printColor(string text, ConsoleColor color)
