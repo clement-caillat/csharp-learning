@@ -1,27 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cleme\\Documents\\C#\\csharp-learning\\NoteTaking\\NoteTaking.csproj": {}
+    "C:\\Users\\Dev\\Documents\\crypto\\C#\\NoteTaking\\NoteTaking.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cleme\\Documents\\C#\\csharp-learning\\NoteTaking\\NoteTaking.csproj": {
+    "C:\\Users\\Dev\\Documents\\crypto\\C#\\NoteTaking\\NoteTaking.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cleme\\Documents\\C#\\csharp-learning\\NoteTaking\\NoteTaking.csproj",
+        "projectUniqueName": "C:\\Users\\Dev\\Documents\\crypto\\C#\\NoteTaking\\NoteTaking.csproj",
         "projectName": "NoteTaking",
-        "projectPath": "C:\\Users\\cleme\\Documents\\C#\\csharp-learning\\NoteTaking\\NoteTaking.csproj",
-        "packagesPath": "C:\\Users\\cleme\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cleme\\Documents\\C#\\csharp-learning\\NoteTaking\\obj\\",
+        "projectPath": "C:\\Users\\Dev\\Documents\\crypto\\C#\\NoteTaking\\NoteTaking.csproj",
+        "packagesPath": "C:\\Users\\Dev\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dev\\Documents\\crypto\\C#\\NoteTaking\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\cleme\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Dev\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
-        "sources": {
-          "https://api.nuget.org/v3/index.json": {}
-        },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
@@ -52,7 +49,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

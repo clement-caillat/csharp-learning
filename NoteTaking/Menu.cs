@@ -4,21 +4,51 @@ namespace App
 {
     public static class Menu
     {
-        public static void draw()
+
+        public static void GetUserChoice()
+        {
+            Tools.printColor<string>("Please choose an option : ", ConsoleColor.Blue);
+            try
+            {
+                string? choice = Console.ReadLine();
+                Console.WriteLine(choice);
+            }
+            catch (System.Exception)
+            {
+                Tools.printColor<string>("Error", ConsoleColor.Red);
+                throw;
+            }
+        }
+
+        public static void drawMenu(string path, Func<int> callback)
         {  
 
+            Console.Clear();
+            
             List<string> options = new List<string>();
 
-            int counter = 0;
+            int counter = 1;
             int x = 0;
             int y = 0;
             int index = 0;
 
-            foreach (string line in System.IO.File.ReadLines("titles.menu"))
-            {  
-                options.Add($"{index}." + line);
-                counter++;
+            try
+            {
+                System.IO.File.ReadLines($"menus/{path}");
             }
+            catch (System.Exception)
+            {
+                Console.ForegroundColor = ConsoleColor.Red;
+                throw new System.IO.FileNotFoundException($"Le fichier menus/{path} est introuvable");
+            }
+            finally {
+                foreach (string line in System.IO.File.ReadLines($"menus/{path}"))
+                {  
+                    options.Add($"{counter}." + line);
+                    counter++;
+                }
+            }
+
 
             foreach (string item in options)
             {  
@@ -29,11 +59,12 @@ namespace App
 
                 y++;
             }
+            counter -= 2;
 
             var size = new Dictionary<char, int>()
             {
-                {'x', 3 * (x + 2)},
-                {'y', 2 * (y + 2)}
+                {'x', x + 2},
+                {'y', y}
             };
             
             Console.Write("█");
@@ -50,15 +81,13 @@ namespace App
                 {
                     Console.Write(" ");
                 }
-                if (index <= counter) {
-                    Console.Write(options[index]);
-                }
+                Console.Write(options[index]);
                 for (int w = 0; w < (size['x'] - options[index].Length) / 2; w++)
                 {
                     Console.Write(" ");
                 }
                 Console.WriteLine("█");
-                if (index <= counter) {
+                if (index < counter) {
                     index++;
                 }
             }
@@ -68,6 +97,14 @@ namespace App
                 Console.Write("▄");
             }
             Console.WriteLine("█");
+
+            callback();
+        }
+
+        public static int mainMenu()
+        {
+            Console.WriteLine("Hello from main menu");
+            return 0;
         }
     }
 }

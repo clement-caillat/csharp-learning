@@ -6,16 +6,13 @@ namespace App
 
         public static void init()
         {
-            Console.WriteLine("Checking directory...");
-            Thread.Sleep(500);
             if (!Directory.Exists(noteDirectory))
             {
                 Console.WriteLine("Creating directory...");
                 Thread.Sleep(2000);
                 Directory.CreateDirectory(noteDirectory);
-                App.NoteApp.printColor("Directory created !", ConsoleColor.Green);
-            } else {
-                App.NoteApp.printColor("Directory already exists", ConsoleColor.Red);
+                Tools.printColor("Directory created !", ConsoleColor.Green);
+                Thread.Sleep(1000);
             }
         }
 
