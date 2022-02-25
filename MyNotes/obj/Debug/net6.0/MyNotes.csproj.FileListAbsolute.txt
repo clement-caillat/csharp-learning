@@ -1,0 +1,15 @@
+C:\Users\Dev\Documents\Learning\C#\MyNotes\bin\Debug\net6.0\MyNotes.exe
+C:\Users\Dev\Documents\Learning\C#\MyNotes\bin\Debug\net6.0\MyNotes.deps.json
+C:\Users\Dev\Documents\Learning\C#\MyNotes\bin\Debug\net6.0\MyNotes.runtimeconfig.json
+C:\Users\Dev\Documents\Learning\C#\MyNotes\bin\Debug\net6.0\MyNotes.dll
+C:\Users\Dev\Documents\Learning\C#\MyNotes\bin\Debug\net6.0\ref\MyNotes.dll
+C:\Users\Dev\Documents\Learning\C#\MyNotes\bin\Debug\net6.0\MyNotes.pdb
+C:\Users\Dev\Documents\Learning\C#\MyNotes\obj\Debug\net6.0\MyNotes.csproj.AssemblyReference.cache
+C:\Users\Dev\Documents\Learning\C#\MyNotes\obj\Debug\net6.0\MyNotes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dev\Documents\Learning\C#\MyNotes\obj\Debug\net6.0\MyNotes.AssemblyInfoInputs.cache
+C:\Users\Dev\Documents\Learning\C#\MyNotes\obj\Debug\net6.0\MyNotes.AssemblyInfo.cs
+C:\Users\Dev\Documents\Learning\C#\MyNotes\obj\Debug\net6.0\MyNotes.csproj.CoreCompileInputs.cache
+C:\Users\Dev\Documents\Learning\C#\MyNotes\obj\Debug\net6.0\MyNotes.dll
+C:\Users\Dev\Documents\Learning\C#\MyNotes\obj\Debug\net6.0\ref\MyNotes.dll
+C:\Users\Dev\Documents\Learning\C#\MyNotes\obj\Debug\net6.0\MyNotes.pdb
+C:\Users\Dev\Documents\Learning\C#\MyNotes\obj\Debug\net6.0\MyNotes.genruntimeconfig.cache

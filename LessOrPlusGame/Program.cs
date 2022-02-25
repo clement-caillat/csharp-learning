@@ -18,6 +18,7 @@
         // Notre fonction Main
         static void Main()
         {
+            Console.Title = "Less Or Plus Game";
             // On créer un nouvel objet de type random
             Random rand = new Random();
             // On créer une variable de type integer à qui on attribu un chiffre aléatoire entre 1 et 100 grâce à notre objet rand
@@ -36,7 +37,7 @@
             while (unumber != mystery)
             {
                 Console.Write("Please choose number : ");
-                string n = Console.ReadLine();
+                string? n = Console.ReadLine();
 
                 unumber = Convert.ToInt32(n);
 
